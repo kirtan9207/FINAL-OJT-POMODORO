@@ -137,3 +137,4 @@ Open a Pull Request.
 
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
+<img width="1512" height="824" alt="Screenshot 2025-12-04 at 12 36 37 PM" src="https://github.com/user-attachments/assets/f53d2b4f-d87e-4ce3-b560-bf559c24af84" />
